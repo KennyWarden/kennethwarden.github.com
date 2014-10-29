@@ -1,22 +1,13 @@
-
-body{
-	padding-bottom: 500px;
+h1
+{
+font-family: Arial;
+font-size: 18;
+color: blue;
 }
 
-.content{
-	margin-top: 60px;
-}
-
-.splash{
-	background-image: url("../img/splash.jpg"); 
-	background-attachment: fixed
-}
-
-#classGoals li{
-	font-size:24px;
-	margin-bottom:10px;
-}
-
-#headline a{
-	text-decoration: none;
+h2, h3
+{
+font-family: Garamond;
+font-size: 14;
+color: green;
 }
